@@ -110,6 +110,8 @@ color: white;
     max-width: 350px;
     display: block;
     margin: auto;
+    border-radius: 50%;
+    box-shadow: var(--primary-color) 1px 1px 3px 3px;
 }
 
 .hero .hero-heading {
