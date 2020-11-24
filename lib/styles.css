@@ -113,7 +113,12 @@ color: white;
     border-radius: 50%;
     box-shadow: var(--primary-color) 1px 1px 3px 3px;
 }
-
+.hero .hero-img-pro{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
 .hero .hero-heading {
     text-align: center;
     padding-top: 1rem;
