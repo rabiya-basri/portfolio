@@ -62,6 +62,29 @@ color: white;
     border: 1px solid  palevioletred;
     }
 
+/** project links**/
+
+.pro-link-primary{
+    color: #6B7280;
+    font-size: 20px;
+}
+
+.pro-link-secondary{
+    color:var(--primary-color);
+    font-size: 20px;
+}
+.pro-link-primary,
+.pro-link-secondary{
+    border-radius: 0.5rem;
+    display: block;
+    max-width: 250px;
+}
+.pro-link-primary:hover,
+.pro-link-secondary:hover{
+    background-color: palevioletred;
+    color: white;
+}
+
 /** lists **/
 
 .list-non-bullet {
