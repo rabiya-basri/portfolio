@@ -95,7 +95,10 @@ color: white;
     display: inline;
     padding: 0rem 0.5rem;
 }
-
+/*blog heading*/
+.blog-heading{
+    color: blue;
+}
 /** navigation **/
 
 .navigation {
@@ -141,6 +144,11 @@ color: white;
     display: block;
     margin: auto;
     border-radius: 50%;
+}
+.hero .hero-img-blog{
+    max-width: 350px;
+    display: block;
+    margin: auto;
 }
 .hero .hero-heading {
     text-align: center;
